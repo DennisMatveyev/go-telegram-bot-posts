@@ -1,0 +1,3 @@
+feeds:
+  - name: "dev.to"
+    url: "https://dev.to/feed/tag/golang"
